@@ -56,3 +56,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #added gems use bundle install to update gems terminal
 gem 'bootstrap', '~> 4.0.0.beta'
 gem "react-rails"
+gem 'jquery-rails'
